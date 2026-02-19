@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri786&label=Profile%20views&color=0e75b6&style=flat" alt="anushri786" /> </p>
 
-- 🌱 I’m interested in **Data Science, Machine Learning, AI**
+- 🌱 I’m interested in **Software Engineer, Automation Engineer, Cloud Engineer, AI**
 
 - 📫 How to reach me **anushri741@gmail.com**
 
