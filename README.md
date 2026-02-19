@@ -15,6 +15,7 @@
 <a href="https://instagram.com/whynotannuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thats_amor_21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@anushriable/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anushriable/featured" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/anushri741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anushri741" height="30" width="40" /></a>
+<a href="https://datascienceportfol.io/anushri_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anushriable/featured" height="30" width="40" /></a>
 </p>
 
 
